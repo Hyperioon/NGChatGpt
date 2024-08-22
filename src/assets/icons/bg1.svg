@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="570px" height="1040px" viewBox="0 0 570 1040" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg1</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="570" height="1040"></rect>
+        <filter x="-37.8%" y="-57.6%" width="175.6%" height="215.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="39" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-44.4%" y="-60.3%" width="188.8%" height="220.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="39" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Ai助手" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="椭圆形-+-椭圆形备份-5蒙版">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="蒙版" fill="#F5F6F9" xlink:href="#path-1"></use>
+            <path d="M161.447335,227.394768 C246.896062,227.394768 313.984384,201.184612 313.984384,138.284854 C313.984384,75.3850966 244.714504,24.3947683 159.265777,24.3947683 C73.8170497,24.3947683 4.54716981,75.3850966 4.54716981,138.284854 C4.54716981,201.184612 75.9986079,227.394768 161.447335,227.394768 Z" id="椭圆形" fill="#DFEDFD" style="mix-blend-mode: multiply;" opacity="0.912532988" filter="url(#filter-3)" mask="url(#mask-2)"></path>
+            <path d="M466.320755,216.5 C539.097296,216.5 598.09434,173.071621 598.09434,119.5 C598.09434,65.9283793 539.097296,22.5 466.320755,22.5 C434.71172,22.5 457.386836,104.612088 434.681415,118.269813 C405.109946,136.05759 334.54717,89.1961406 334.54717,119.5 C334.54717,173.071621 393.544213,216.5 466.320755,216.5 Z" id="椭圆形备份-5" fill="#EEE4FD" style="mix-blend-mode: multiply;" opacity="0.912532988" filter="url(#filter-4)" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

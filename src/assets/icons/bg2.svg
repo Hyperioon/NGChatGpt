@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1046px" viewBox="0 0 1920 1046" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg-2</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1920" height="1046"></rect>
+        <filter x="-7.1%" y="-15.7%" width="114.1%" height="131.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="39" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-9.0%" y="-14.5%" width="118.0%" height="129.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="39" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Ai助手" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg-2">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="蒙版" fill="#EFF5FF" xlink:href="#path-1"></use>
+            <path d="M547.688761,562 C1005.52194,562 1364.9803,465.551788 1364.9803,234.093074 C1364.9803,2.63436064 993.833175,-185 536,-185 C78.1668249,-185 -292.980296,2.63436064 -292.980296,234.093074 C-292.980296,465.551788 89.8555857,562 547.688761,562 Z" id="椭圆形" fill="#DFEDFD" style="mix-blend-mode: multiply;" opacity="0.417880104" filter="url(#filter-3)" mask="url(#mask-2)"></path>
+            <path d="M1388.02062,559 C1746.99432,559 2038,378.346897 2038,155.5 C2038,-67.3468965 1746.99432,-248 1388.02062,-248 C1232.10758,-248 1343.95365,93.5693577 1231.95809,150.382675 C1086.09544,224.376162 738.041237,29.442193 738.041237,155.5 C738.041237,378.346897 1029.04692,559 1388.02062,559 Z" id="椭圆形备份-5" fill="#EEE4FD" style="mix-blend-mode: multiply;" opacity="0.448613485" filter="url(#filter-4)" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
