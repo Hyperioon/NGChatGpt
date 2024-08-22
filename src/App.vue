@@ -12,5 +12,9 @@ body {
     align-items: center;
     overflow: hidden;
     height: 100vh;
+    background-image: url('./assets//bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 </style>
