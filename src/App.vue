@@ -4,8 +4,6 @@
 
 <style lang="scss">
 body {
-    background-color: #fafafa;
-    color: #303030;
     margin: 0;
     padding: 0;
     width: 100vw;
